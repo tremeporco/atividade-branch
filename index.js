@@ -15,3 +15,4 @@ const dividir = (a, b) => {
   // 5. Potenciação (A elevado a B)
 const elevar = (a, b) => Math.pow(a, b);
   
+const resto = (a, b) => a % b;
