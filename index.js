@@ -11,5 +11,7 @@ const multiplicar = (a, b) => a * b;
 const dividir = (a, b) => {
     if (b === 0) return "Erro: Divisão por zero";
     return a / b;
-
-    
+}
+  // 5. Potenciação (A elevado a B)
+const elevar = (a, b) => Math.pow(a, b);
+  
